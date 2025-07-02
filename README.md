@@ -3,6 +3,8 @@
 **FeelCS** is an AI-powered, gamified platform designed to help students **feel, visualize, and understand** core Computer Science concepts like Operating Systems and Computer Networks. It combines interactive simulations, smart quizzes using Gemini API, personalized study planning, and leaderboard-driven gamification to create a fully immersive learning experience.
 
 ---
+Daily Progress and Learning Track Doc: https://docs.google.com/document/d/1YxSFgxYUFeLZGvF6pt2j-BBwuF2bwXBhAQUY1dPjUEg/edit?usp=sharing
+
 
 ## ✨ Features
 
