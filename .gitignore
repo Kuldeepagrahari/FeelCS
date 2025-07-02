@@ -1,0 +1,74 @@
+# ====================
+# General
+# ====================
+node_modules/
+.env
+.env.local
+.env.*.local
+.DS_Store
+*.log
+*.pid
+
+# ====================
+# React (client/)
+# ====================
+client/node_modules/
+client/build/
+client/.env
+client/.next/
+client/dist/
+client/.turbo/
+client/.vercel/
+client/public/assets/temp/
+
+# ====================
+# Express Backend (server/)
+# ====================
+server/node_modules/
+server/.env
+server/logs/
+server/uploads/
+server/tmp/
+
+# ====================
+# C++ Simulations
+# ====================
+simulators/*.o
+simulators/*.out
+simulators/*.exe
+simulators/*.bin
+simulators/*.class
+simulators/*.obj
+
+# ====================
+# VSCode & IDE Settings
+# ====================
+.vscode/
+.idea/
+*.swp
+*.sublime-workspace
+*.sublime-project
+
+# ====================
+# OS Files
+# ====================
+Thumbs.db
+Desktop.ini
+
+# ====================
+# Docker / Deployment
+# ====================
+*.tar
+*.gz
+docker-compose.override.yml
+*.local
+*.crt
+*.pem
+
+# ====================
+# Logs & Misc
+# ====================
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
